@@ -1,0 +1,11 @@
+C:\Users\user\Zombie Ashley Mc\Assignment-1-Zombie-1\Zombie1\bin\Debug\netcoreapp2.0\Zombie1.deps.json
+C:\Users\user\Zombie Ashley Mc\Assignment-1-Zombie-1\Zombie1\bin\Debug\netcoreapp2.0\Zombie1.runtimeconfig.json
+C:\Users\user\Zombie Ashley Mc\Assignment-1-Zombie-1\Zombie1\bin\Debug\netcoreapp2.0\Zombie1.runtimeconfig.dev.json
+C:\Users\user\Zombie Ashley Mc\Assignment-1-Zombie-1\Zombie1\bin\Debug\netcoreapp2.0\Zombie1.dll
+C:\Users\user\Zombie Ashley Mc\Assignment-1-Zombie-1\Zombie1\bin\Debug\netcoreapp2.0\Zombie1.pdb
+C:\Users\user\Zombie Ashley Mc\Assignment-1-Zombie-1\Zombie1\obj\Debug\netcoreapp2.0\Zombie1.csprojAssemblyReference.cache
+C:\Users\user\Zombie Ashley Mc\Assignment-1-Zombie-1\Zombie1\obj\Debug\netcoreapp2.0\Zombie1.csproj.CoreCompileInputs.cache
+C:\Users\user\Zombie Ashley Mc\Assignment-1-Zombie-1\Zombie1\obj\Debug\netcoreapp2.0\Zombie1.AssemblyInfoInputs.cache
+C:\Users\user\Zombie Ashley Mc\Assignment-1-Zombie-1\Zombie1\obj\Debug\netcoreapp2.0\Zombie1.AssemblyInfo.cs
+C:\Users\user\Zombie Ashley Mc\Assignment-1-Zombie-1\Zombie1\obj\Debug\netcoreapp2.0\Zombie1.dll
+C:\Users\user\Zombie Ashley Mc\Assignment-1-Zombie-1\Zombie1\obj\Debug\netcoreapp2.0\Zombie1.pdb
